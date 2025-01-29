@@ -7,11 +7,6 @@ This project is a web application for setting up a new chatbot for businesses. T
 - React
 - React Router (react-router-dom)
 - Tailwind CSS
-- Node.js (backend)
-- MongoDB (database)
-- Express.js (backend framework)
-- Google Sign-In (OAuth 2.0 for Google authentication)
-- Socket.io (for real-time updates)
 - DaisyUI (for UI components)
 
 ## Features
@@ -29,6 +24,14 @@ This project is a web application for setting up a new chatbot for businesses. T
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/beyondchats-chatbot-setup.git
+   git clone https://github.com/Akashgupta41
    cd beyondchats-chatbot-setup
 
+
+
+
+
+1. **Project Deployed Link**:
+   ```bash
+   https://chatbot-assigment.vercel.app/
+   
